@@ -97,3 +97,12 @@ h5 {
 .link-list1 span {
     color: black;
 }
+
+.footer {
+    color: #f0f1f5;
+    text-align: center;
+    text-shadow: whitesmoke 5px 0px 5px;
+    font-weight: lighter;
+    font-size: 13px;
+    margin-top: 25px;
+}
